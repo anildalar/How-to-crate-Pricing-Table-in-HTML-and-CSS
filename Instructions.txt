@@ -1,0 +1,12 @@
+tr = table row
+th = table head cell
+td = table data cell
+
+f8 = info p= anel
+shift + alt + DownArrow
+
+Ctrl + D = Pattern Search
+f2 = Rename
+Ctrl + U = Undo Patter Search
+
+Reusability 
